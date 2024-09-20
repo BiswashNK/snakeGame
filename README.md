@@ -1,5 +1,5 @@
-Snake Game
-Overview
+**Snake Game**
+
 
 The Snake Game is a classic arcade-style game implemented in Java using Swing. Players control a snake that grows in length as it eats apples, while avoiding collisions with the walls and the snake's own body.
 Features
